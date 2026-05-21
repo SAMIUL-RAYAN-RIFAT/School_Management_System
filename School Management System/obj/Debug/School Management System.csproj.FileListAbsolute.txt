@@ -1,0 +1,186 @@
+C:\Users\TASIN\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\TASIN\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\TASIN\source\repos\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.LodingPage.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\TASIN\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.UpdateStudentGrade.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\rafis\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.LodingPage.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.UpdateStudentGrade.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\rafis\source\repos\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\rafis\source\repos\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.LodingPage.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.UpdateStudentGrade.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student1.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.LoadingPage.resources
+C:\Users\rafis\source\repos\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Show_Course.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.LoadingPage.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Show_Course.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student1.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\rafis\Desktop\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.ResolveComReference.cache
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.ResolveComReference.cache
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.LoadingPage.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Show_Course.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student1.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Registation.resources
+C:\Users\rifat\Desktop\New folder\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Assign_Teacher.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.ResolveComReference.cache
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Assign_Teacher.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.LoadingPage.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Registation.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Show_Course.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student1.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\rifat\Desktop\New folder\New folder\Real\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School Management System.csproj.ResolveComReference.cache
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Admin.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Assign_Teacher.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.BatchManagement.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.ClassManagement.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.CourseManagement.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.LoadingPage.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Registation.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Show_Course.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Student1.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.StudentEnrollment.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.UserManagement.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Update_Grade.resources
+C:\Users\rifat\Desktop\Ultra Final Attack\School Management System\School Management System\obj\Debug\School_Management_System.Payment.resources

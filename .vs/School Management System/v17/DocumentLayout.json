@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|c:\\users\\rifat\\desktop\\ultra final attack\\school management system\\school management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\update_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\update_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\update_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\update_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\add_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\add_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\add_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\add_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\registation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\registation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\show_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\show_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\show_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\show_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\studentenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\studentenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\batchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\batchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\classmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\classmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\assign_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\assign_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\registation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\registation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\studentenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\studentenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\assign_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\assign_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\teacher1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\teacher1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\batchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\batchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\school management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED1967-A009-44BD-A500-606D1A6827EF}|School Management System\\School Management System.csproj|solutionrelative:school management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\DataAccess.cs",
+              "RelativeDocumentMoniker": "School Management System\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\DataAccess.cs",
+              "RelativeToolTip": "School Management System\\DataAccess.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:02:21.443Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Payment.Designer.cs",
+              "RelativeDocumentMoniker": "School Management System\\Payment.Designer.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Payment.Designer.cs",
+              "RelativeToolTip": "School Management System\\Payment.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAlwL8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:37:57.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update_Grade.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Update_Grade.cs",
+              "RelativeDocumentMoniker": "School Management System\\Update_Grade.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Update_Grade.cs",
+              "RelativeToolTip": "School Management System\\Update_Grade.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:37:48.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update_Grade.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Update_Grade.cs",
+              "RelativeDocumentMoniker": "School Management System\\Update_Grade.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Update_Grade.cs [Design]",
+              "RelativeToolTip": "School Management System\\Update_Grade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:32:08.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Assign_Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Assign_Teacher.cs",
+              "RelativeDocumentMoniker": "School Management System\\Assign_Teacher.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Assign_Teacher.cs",
+              "RelativeToolTip": "School Management System\\Assign_Teacher.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:06:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Assign_Teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Assign_Teacher.cs",
+              "RelativeDocumentMoniker": "School Management System\\Assign_Teacher.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Assign_Teacher.cs [Design]",
+              "RelativeToolTip": "School Management System\\Assign_Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:06:12.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseManagement.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\CourseManagement.cs",
+              "RelativeDocumentMoniker": "School Management System\\CourseManagement.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\CourseManagement.cs",
+              "RelativeToolTip": "School Management System\\CourseManagement.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:30:31.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\CourseManagement.cs",
+              "RelativeDocumentMoniker": "School Management System\\CourseManagement.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\CourseManagement.cs [Design]",
+              "RelativeToolTip": "School Management System\\CourseManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:30:27.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoadingPage.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\LoadingPage.cs",
+              "RelativeDocumentMoniker": "School Management System\\LoadingPage.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\LoadingPage.cs",
+              "RelativeToolTip": "School Management System\\LoadingPage.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:37:45.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoadingPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\LoadingPage.cs",
+              "RelativeDocumentMoniker": "School Management System\\LoadingPage.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\LoadingPage.cs [Design]",
+              "RelativeToolTip": "School Management System\\LoadingPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:35:59.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Teacher1.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Teacher1.cs",
+              "RelativeDocumentMoniker": "School Management System\\Teacher1.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Teacher1.cs",
+              "RelativeToolTip": "School Management System\\Teacher1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:21:04.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Login.cs",
+              "RelativeDocumentMoniker": "School Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Login.cs",
+              "RelativeToolTip": "School Management System\\Login.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAlwDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:58:12.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Login.cs",
+              "RelativeDocumentMoniker": "School Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Login.cs [Design]",
+              "RelativeToolTip": "School Management System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:55:13.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Registation.cs",
+              "RelativeDocumentMoniker": "School Management System\\Registation.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Registation.cs [Design]",
+              "RelativeToolTip": "School Management System\\Registation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:43:20.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Payment.cs",
+              "RelativeDocumentMoniker": "School Management System\\Payment.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Payment.cs",
+              "RelativeToolTip": "School Management System\\Payment.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwIgAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:36:30.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Payment.cs",
+              "RelativeDocumentMoniker": "School Management System\\Payment.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Payment.cs [Design]",
+              "RelativeToolTip": "School Management System\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:40:31.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Registation.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Registation.cs",
+              "RelativeDocumentMoniker": "School Management System\\Registation.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Registation.cs",
+              "RelativeToolTip": "School Management System\\Registation.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:44:37.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\UserManagement.cs",
+              "RelativeDocumentMoniker": "School Management System\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\UserManagement.cs",
+              "RelativeToolTip": "School Management System\\UserManagement.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:35:00.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\UserManagement.cs",
+              "RelativeDocumentMoniker": "School Management System\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\UserManagement.cs [Design]",
+              "RelativeToolTip": "School Management System\\UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:34:50.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\ClassManagement.cs",
+              "RelativeDocumentMoniker": "School Management System\\ClassManagement.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\ClassManagement.cs [Design]",
+              "RelativeToolTip": "School Management System\\ClassManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:19:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BatchManagement.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\BatchManagement.cs",
+              "RelativeDocumentMoniker": "School Management System\\BatchManagement.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\BatchManagement.cs",
+              "RelativeToolTip": "School Management System\\BatchManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:49:17.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BatchManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\BatchManagement.cs",
+              "RelativeDocumentMoniker": "School Management System\\BatchManagement.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\BatchManagement.cs [Design]",
+              "RelativeToolTip": "School Management System\\BatchManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:49:13.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Admin.cs",
+              "RelativeDocumentMoniker": "School Management System\\Admin.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Admin.cs",
+              "RelativeToolTip": "School Management System\\Admin.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA+wDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:21:45.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add_Course.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Add_Course.cs",
+              "RelativeDocumentMoniker": "School Management System\\Add_Course.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Add_Course.cs",
+              "RelativeToolTip": "School Management System\\Add_Course.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:38:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add_Course.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Add_Course.cs",
+              "RelativeDocumentMoniker": "School Management System\\Add_Course.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Add_Course.cs [Design]",
+              "RelativeToolTip": "School Management System\\Add_Course.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:37:47.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Teacher.cs",
+              "RelativeDocumentMoniker": "School Management System\\Teacher.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Teacher.cs",
+              "RelativeToolTip": "School Management System\\Teacher.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAASwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:18:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Teacher.cs",
+              "RelativeDocumentMoniker": "School Management System\\Teacher.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Teacher.cs [Design]",
+              "RelativeToolTip": "School Management System\\Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:15:31.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Student.cs",
+              "RelativeDocumentMoniker": "School Management System\\Student.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Student.cs",
+              "RelativeToolTip": "School Management System\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:40:10.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Student1.cs",
+              "RelativeDocumentMoniker": "School Management System\\Student1.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Student1.cs [Design]",
+              "RelativeToolTip": "School Management System\\Student1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:15:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student1.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Student1.cs",
+              "RelativeDocumentMoniker": "School Management System\\Student1.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Student1.cs",
+              "RelativeToolTip": "School Management System\\Student1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAawFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:45:33.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentEnrollment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\StudentEnrollment.cs",
+              "RelativeDocumentMoniker": "School Management System\\StudentEnrollment.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\StudentEnrollment.cs [Design]",
+              "RelativeToolTip": "School Management System\\StudentEnrollment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:35:23.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Show_Course.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Show_Course.cs",
+              "RelativeDocumentMoniker": "School Management System\\Show_Course.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Show_Course.cs [Design]",
+              "RelativeToolTip": "School Management System\\Show_Course.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:47:51.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Show_Course.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Show_Course.cs",
+              "RelativeDocumentMoniker": "School Management System\\Show_Course.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Show_Course.cs",
+              "RelativeToolTip": "School Management System\\Show_Course.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:47:57.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentEnrollment.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\StudentEnrollment.cs",
+              "RelativeDocumentMoniker": "School Management System\\StudentEnrollment.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\StudentEnrollment.cs",
+              "RelativeToolTip": "School Management System\\StudentEnrollment.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:35:29.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Admin.cs",
+              "RelativeDocumentMoniker": "School Management System\\Admin.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Admin.cs [Design]",
+              "RelativeToolTip": "School Management System\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:16:01.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Program.cs",
+              "RelativeDocumentMoniker": "School Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\Ultra Final Attack\\School Management System\\School Management System\\Program.cs",
+              "RelativeToolTip": "School Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:05:43.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
